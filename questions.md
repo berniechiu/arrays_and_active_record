@@ -32,11 +32,17 @@
 
 [String#upcase](http://ruby-doc.org/core-2.0.0/String.html#method-i-upcase)
 
+
 ## Active Record Docs
 
+0) Link to Rail's ActiveRecord querying conditions
 
-0) Link to Rail's ActiveRecord querying conditions 
+[ActiveRecord Conditions](http://guides.rubyonrails.org/active_record_querying.html#conditions)
 
-1) Link from APIdock to Rail's ActiveRecord querying conditions  
+1) Link from APIdock to Rail's ActiveRecord querying conditions
 
-2) 
+[APIdock ActiveRecord Conditions](http://apidock.com/rails/v3.2.13/ActiveRecord/Base)
+
+2) Link to Rails guides
+
+[Rails Guides](http://guides.rubyonrails.org/)
